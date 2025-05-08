@@ -1,0 +1,9 @@
+rice
+dal
+egg
+vegetables
+chicken
+meat
+bread
+potato
+fish
