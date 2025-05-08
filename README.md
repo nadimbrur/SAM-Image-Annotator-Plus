@@ -1,4 +1,3 @@
-readme_content = """
 # SAM Image Annotator Plus
 
 A powerful and user-friendly image annotation tool built on Meta's Segment Anything Model (SAM). Designed with extra functionality for efficient manual corrections, polygon-based annotations, and easy dataset generation. Ideal for tasks such as object segmentation, dataset labeling, and computer vision projects.
