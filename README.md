@@ -30,7 +30,8 @@ image_annotator.py — main GUI-based annotation script
 
 ## 🖼️ Example Annotation
 An example of annotated data can be found at:
-![Annotated Image](Image.png)
+<img src="Image.png" alt="Annotated Image" width="500"/>
+
 
 ## ▶️ Usage
 ### Install the dependencies:
