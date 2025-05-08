@@ -30,6 +30,7 @@ image_annotator.py — main GUI-based annotation script
 
 ## 🖼️ Example Annotation
 An example of annotated data can be found at:
+
 <img src="Image.png" alt="Annotated Image" width="500"/>
 
 
